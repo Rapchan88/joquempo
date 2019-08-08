@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "193248185451",
+    "firebase_url": "https://joquempo-e5f79.firebaseio.com",
+    "project_id": "joquempo-e5f79",
+    "storage_bucket": "joquempo-e5f79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193248185451:android:50341bff8362cc78",
+        "android_client_info": {
+          "package_name": "com.rapchan.joquempo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193248185451-f6mmgi85nm395gedthjl83sm9e5jbku9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rapchan.joquempo",
+            "certificate_hash": "32bbbf6b87ed4faccb6129ba628328b705292b54"
+          }
+        },
+        {
+          "client_id": "193248185451-a8mjkrrmiu271nslfuftvioj4nnqerm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoRTa8FEmSuRljke7ZmwU0zDiNijpSQ6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193248185451-a8mjkrrmiu271nslfuftvioj4nnqerm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
